@@ -33,7 +33,6 @@ document.addEventListener('DOMContentLoaded', function () {
     form.addEventListener('submit', function (e) {
       e.preventDefault();
       form.reset();
-      alert('Thank you for reaching out! I will get back to you soon.');
     });
   }
 });
@@ -53,3 +52,4 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 });
+
